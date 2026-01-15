@@ -1,419 +1,102 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Welcome to Zippo's Digital Universe 🌌
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zippo%20🚀&fontSize=42&fontAlignY=32&desc=Backend%20Wizard%20%7C%20AI%20Explorer%20%7C%20Code%20Alchemist&descSize=16&descAlignY=51&animation=twinkling"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&height=100&lines=Backend+Developer+%F0%9F%92%BB;Machine+Learning+Engineer+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%A7%A0;Turning+Coffee+into+Code+%E2%98%95;Failure+is+my+Best+Teacher+%F0%9F%93%9A" alt="Typing SVG" />
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-zipstudio.online-00D9FF?style=for-the-badge&logoColor=white)](https://zipstudio.online/)
-[![Kaggle](https://img.shields.io/badge/🏆_Kaggle-Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/realzippo)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 🎭 Who Am I?
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```javascript
-const zippo = {
-    pronouns: "He" | "Him",
-    age: 22,
-    location: "Earth 🌍",
-    code: ["Python", "JavaScript", "SQL", "Bash"],
-    askMeAbout: ["AI/ML", "Backend", "Data Science", "System Design"],
-    technologies: {
-        backend: {
-            python: ["Django", "FastAPI", "Flask"],
-            js: ["Node.js", "Express"],
-            databases: ["PostgreSQL", "MongoDB", "Redis"]
-        },
-        aiml: ["TensorFlow", "PyTorch", "Keras", "Scikit-Learn"],
-        devOps: ["Docker", "AWS", "CI/CD", "Nginx"],
-        tools: ["Git", "Linux", "VS Code", "Jupyter"]
-    },
-    currentProject: "ZipStudio.online",
-    funFact: "Bugs fear me, but segmentation faults still haunt me",
-    challenge: "Building AGI... one model at a time 🤖"
-};
-```
-
-<details>
-<summary>📊 <b>More About My Coding Journey</b></summary>
-
-<br>
-
-```python
-class ZippoCodingJourney:
-    def __init__(self):
-        self.started_coding = 2019
-        self.lines_of_code_written = "1M+"
-        self.coffee_consumed = "∞ cups ☕"
-        self.bugs_created = "Too many to count 🐛"
-        self.bugs_fixed = "bugs_created + 1"
-        
-    def daily_routine(self):
-        activities = [
-            "☕ Morning coffee",
-            "💻 Code awesome features",
-            "🔥 Debug mysterious errors",
-            "📚 Learn something new",
-            "🧘 Contemplate life choices",
-            "🌙 Late night coding session"
-        ]
-        return activities
-    
-    def life_philosophy(self):
-        return """
-        while(alive) {
-            eat();
-            sleep();
-            code();
-            repeat();
-            // Profit??? 🤔
-        }
-        """
-```
-
-</details>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-<div align="center">
-
-### 🚀 Core Technologies
-
-<table>
-<tr>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
-<br>Python
-</td>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="55" height="55" />
-<br>Django
-</td>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="55" alt="FastAPI" />
-<br>FastAPI
-</td>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
-<br>AWS
-</td>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
-<br>Docker
-</td>
-</tr>
-<tr>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="PostgreSQL" />
-<br>PostgreSQL
-</td>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="55" alt="TensorFlow" />
-<br>TensorFlow
-</td>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="55" alt="PyTorch" />
-<br>PyTorch
-</td>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55" />
-<br>Kubernetes
-</td>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
-<br>GitHub
-</td>
-</tr>
-</table>
-
-### 📚 Additional Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 📊 GitHub Analytics & Stats
-
-<div align="center">
-  
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZippoAI&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZippoAI&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
-
-</div>
-
-
-
-<details>
-<summary><b>📈 More Stats & Metrics</b></summary>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZippoAI&theme=radical" width="100%" alt="Profile Details"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZippoAI&theme=radical" width="32%" alt="Repos per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZippoAI&theme=radical" width="32%" alt="Most Commit Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZippoAI&theme=radical" width="32%" alt="Productive Time"/>
-
-</div>
-
-</details>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 🎯 Current Mission & Learning Path
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'background':'#ffffff', 'primaryColor':'#e3f2fd','primaryTextColor':'#000000','primaryBorderColor':'#2196f3','lineColor':'#2196f3','secondaryColor':'#ffffff','tertiaryColor':'#ffffff', 'mainBkg':'#ffffff'}}}%%
-
-mindmap
-  root((Zippo's Tech Journey))
-    Backend Development
-      Django & FastAPI
-      API Design
-      Microservices
-      System Architecture
-    AI/ML
-      Deep Learning
-      Computer Vision
-      NLP
-      MLOps
-    DevOps
-      Docker
-      Kubernetes
-      CI/CD
-      Cloud Services
-    Data Engineering
-      ETL Pipelines
-      Data Modeling
-      Big Data Tools
-```
-
-<div align="center">
-
-### 🎓 Currently Learning
-```python
-learning_path = {
-    "🧠 Deep Learning": ["Neural Networks", "CNNs", "RNNs", "Transformers"],
-    "☁️ Cloud Native": ["Kubernetes", "Serverless", "Cloud Architecture"],
-    "📊 MLOps": ["Model Deployment", "Monitoring", "AutoML"],
-    "🔐 Security": ["API Security", "Authentication", "Best Practices"],
-    "🚀 Performance": ["Caching", "Load Balancing", "Optimization"]
-}
-
-for topic, subtopics in learning_path.items():
-    print(f"Mastering: {topic}")
-    for subtopic in subtopics:
-        print(f"  ✓ {subtopic}")
-```
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 ZipStudio
-**AI-Powered Development Platform**
-- Built with Django & TensorFlow
-- Real-time collaboration features
-- ML model deployment pipeline
-- 1000+ active users
-
-[![Visit](https://img.shields.io/badge/Visit-ZipStudio-00D9FF?style=for-the-badge)](https://zipstudio.online/)
-
-</td>
-<td width="50%">
-
-### 🤖 ML Model Zoo
-**Collection of Pre-trained Models**
-- Image Classification
-- NLP Tasks
-- Time Series Forecasting
-- Easy deployment API
-
-[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ZippoAI)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 DataViz Dashboard
-**Interactive Data Analytics Tool**
-- Real-time data processing
-- Beautiful visualizations
-- Export & sharing features
-- PostgreSQL + Redis backend
-
-[![Demo](https://img.shields.io/badge/Live-Demo-FF6D00?style=for-the-badge)](https://github.com/ZippoAI)
-
-</td>
-<td width="50%">
-
-### ⚡ FastAPI Microservices
-**Scalable Backend Architecture**
-- Event-driven design
-- Docker containerized
-- API Gateway pattern
-- 99.9% uptime
-
-[![Docs](https://img.shields.io/badge/Read-Docs-4CAF50?style=for-the-badge)](https://github.com/ZippoAI)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 💭 Developer Wisdom
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-### 🎯 My Coding Principles
-  
-> **"Code is like humor. When you have to explain it, it's bad."** – Cory House
-
-> **"First, solve the problem. Then, write the code."** – John Johnson
-
-> **"The best error message is the one that never shows up."** – Thomas Fuchs
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 🎵 Spotify Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-eight-chi.vercel.app/api/spotify?background_color=0d1117&border_color=00d9ff)](https://open.spotify.com/user/username)
-
-**Currently vibing to some lo-fi beats while crushing bugs** 🎧
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-
-### 📱 Find Me Across The Internet
-
-<a href="https://github.com/ZippoAI">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/zipppo/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.kaggle.com/realzippo">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-</a>
-<a href="https://www.instagram.com/zippo.sensei/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://devfolio.co/@bulbul77">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-</a>
-
-### 💬 Ask Me About
-`Python` `Django` `FastAPI` `Machine Learning` `TensorFlow` `PostgreSQL` `Docker` `AWS` `System Design` `API Development`
-
-### 📫 How to Reach Me
-- 💼 **LinkedIn:** Let's connect professionally!
-- 📸 **Instagram:** Behind the scenes of my dev life
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-
-
-
----
-
-<div align="center">
-
-### 📈 Profile Views & Visitors
-
-![Profile Views](https://komarev.com/ghpvc/?username=ZippoAI&color=00d9ff&style=for-the-badge&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-### ⭐ If you find my projects interesting, don't forget to star them!
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
----
-
 ```ascii
-╔═══════════════════════════════════════════════════════════╗
-║  "Talk is cheap. Show me the code." - Linus Torvalds     ║
-╚═══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ███████╗██╗██████╗ ██████╗  ██████╗  █████╗ ██╗          ║
+║   ╚══███╔╝██║██╔══██╗██╔══██╗██╔═══██╗██╔══██╗██║          ║
+║     ███╔╝ ██║██████╔╝██████╔╝██║   ██║███████║██║          ║
+║    ███╔╝  ██║██╔═══╝ ██╔═══╝ ██║   ██║██╔══██║██║          ║
+║   ███████╗██║██║     ██║     ╚██████╔╝██║  ██║██║          ║
+║   ╚══════╝╚═╝╚═╝     ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝          ║
+║                                                              ║
+║          Backend Architect | AI/ML Researcher               ║
+║                  Where Code Meets Intelligence               ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-**Made with 💙 and lots of ☕ by Zippo**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="15%" alt="Laptop"/>
 
-*Last Updated: December 2025*
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+Python+%F0%9F%90%8D;AI%2FML+%C3%97+Backend+Development+%F0%9F%9A%80;Turning+data+into+insights+%F0%9F%A7%A0;Code+%2B+Coffee+%3D+Magic+%E2%98%95)
+
+[![Portfolio](https://img.shields.io/badge/🌐_zipstudio.online-000000?style=for-the-badge)](https://zipstudio.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🛠️ Tech Arsenal
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend & APIs**  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**Data & ML**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Data Visualization**  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**DevOps & Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZippoAI&theme=github_dark" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZippoAI&theme=github-dark-blue&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZippoAI&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" width="98%" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZippoAI/ZippoAI/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZippoAI/ZippoAI/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZippoAI/ZippoAI/output/snake-dark.svg">
+</picture>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+*Currently exploring deep learning architectures & scalable systems*
+
+![](https://komarev.com/ghpvc/?username=ZippoAI&color=58a6ff&style=flat-square)
 
 </div>
